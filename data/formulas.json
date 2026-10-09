@@ -1,0 +1,109 @@
+{
+  "formulas": [
+    {
+      "id": "table_01_01",
+      "topic": "Tables (1-30)",
+      "name": "Multiplication table: 1 × 1",
+      "notation": "1 * 1 = 1",
+      "explanation": "Multiplication fact from the table of 1.",
+      "example_question": "What is 1 × 1?",
+      "correct_answer": "1",
+      "worked_solution": "1 * 1 = 1",
+      "mcq_options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "hint": "Multiply 1 by 1.",
+      "accepted_answers": [
+        "1"
+      ],
+      "weight": 1
+    },
+    {
+      "id": "sq_15",
+      "topic": "Squares (1-20)",
+      "name": "Square of 15",
+      "notation": "15^2 = 225",
+      "explanation": "The square of a number is the number multiplied by itself.",
+      "example_question": "What is the exact value of 15^2?",
+      "correct_answer": "225",
+      "worked_solution": "15 * 15 = 225",
+      "mcq_options": [
+        "225",
+        "240",
+        "210",
+        "255"
+      ],
+      "hint": "Multiply 15 by itself.",
+      "accepted_answers": [
+        "225"
+      ],
+      "weight": 5
+    },
+    {
+      "id": "cube_12",
+      "topic": "Cubes (1-15)",
+      "name": "Cube of 12",
+      "notation": "12^3 = 1728",
+      "explanation": "The cube of a number is the number multiplied by itself three times.",
+      "example_question": "What is the exact value of 12^3?",
+      "correct_answer": "1728",
+      "worked_solution": "12 * 12 * 12 = 1728",
+      "mcq_options": [
+        "1728",
+        "1740",
+        "1716",
+        "1752"
+      ],
+      "hint": "Calculate 12 squared, then multiply by 12.",
+      "accepted_answers": [
+        "1728"
+      ],
+      "weight": 5
+    },
+    {
+      "id": "fact_06",
+      "topic": "Factorials (1-7)",
+      "name": "Factorial of 6",
+      "notation": "6! = 720",
+      "explanation": "A factorial is the product of all positive integers up to the given number.",
+      "example_question": "Evaluate 6!.",
+      "correct_answer": "720",
+      "worked_solution": "6! = 1 * 2 * 3 * 4 * 5 * 6 = 720",
+      "mcq_options": [
+        "720",
+        "714",
+        "726",
+        "1440"
+      ],
+      "hint": "Multiply all whole numbers from 1 through 6.",
+      "accepted_answers": [
+        "720"
+      ],
+      "weight": 4
+    },
+    {
+      "id": "pow2_10",
+      "topic": "Powers of 2",
+      "name": "2 to the power of 10",
+      "notation": "2^10 = 1024",
+      "explanation": "Standard memory value for 1 kilobyte in computing.",
+      "example_question": "What is the exact value of 2^10?",
+      "correct_answer": "1024",
+      "worked_solution": "2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 * 2 = 1024",
+      "mcq_options": [
+        "1024",
+        "512",
+        "2048",
+        "1000"
+      ],
+      "hint": "Think of the number of bytes in a standard kilobyte.",
+      "accepted_answers": [
+        "1024"
+      ],
+      "weight": 3
+    }
+  ]
+}
